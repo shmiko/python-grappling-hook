@@ -1,4 +1,8 @@
 import sys
+import Math
+
+def time(a):
+    return 3 + 2 * a
 
 def naive(a,b):
     x = a
