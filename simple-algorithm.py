@@ -13,4 +13,4 @@ def naive(a,b):
         x = x - 1
     return z
 # result = naive()
-print(naive(5,5))
+print(naive(2,5))
